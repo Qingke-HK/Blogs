@@ -2,4 +2,4 @@ language: ruby
 before_install: 
   - gem install jekyll bundler
 script: 
-  - scripts/build.sh
+  - bash scripts/build.sh
